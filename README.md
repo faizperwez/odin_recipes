@@ -1,1 +1,1 @@
-# odin_recipes
+This is my first html project and it's about my favorite recipe. Have a good day(or night) ahead!
